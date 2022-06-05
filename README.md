@@ -1,3 +1,3 @@
 # golang-practice
 
-# Golang tutorials for beginners 
+# Each branch is a project.
